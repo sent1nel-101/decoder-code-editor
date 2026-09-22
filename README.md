@@ -1,6 +1,6 @@
-# CodeDivs - Free Browser-Based Code Sandbox
+# Decode - Free Browser-Based Code Sandbox
 
-**CodeDivs** is a powerful, free-to-use, browser-based coding sandbox for practicing and prototyping HTML, CSS, and JavaScript in a live environment. No installation required – just open and code!
+**Decode** is a powerful, free-to-use, browser-based coding sandbox for practicing and prototyping HTML, CSS, and JavaScript in a live environment. No installation required – just open and code!
 
 ![Version](https://img.shields.io/badge/version-3.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -374,12 +374,12 @@ This project is free to use for personal and commercial projects. No attribution
 - jQuery team for the excellent library
 - All contributors and users
 
-## 📞 Support
+## Support
 
 Found a bug? Have a feature request? Please open an issue on GitHub.
 
 ---
 
-**Made with ❤️ by the CodeDivs team**
+**Made with ❤️ by the Decodes team**
 
 *Happy coding!* 🚀
